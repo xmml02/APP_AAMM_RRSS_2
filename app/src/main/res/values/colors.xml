@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_component">#FF5722</color>
+    <color name="background_component_selected">#FFC107</color>
+    <color name="background_app">#011E87</color>
+    <color name="background_button">#CD1414</color>
+    <color name="title_text">#7C7C7C</color>
+
+    <color name="peso_bajo">#FFEB3B</color>
+    <color name="peso_normal">#8BC34A</color>
+    <color name="peso_alto">#FF9800</color>
+    <color name="peso_muy_alto">#FA1111</color>
+
+    <color name="Activ_Login_bg">#135D88</color>
+    <color name="Activ_Login_bg_tint">#C30E425E</color>
+    <color name="Activ_Login_font">#2A50A5</color>
+
+    <color name="btnBack">#CDD2D6</color>
+    <color name="btnOK">#FF9800</color>
+
+    <color name="barra_avance">#71DAB1</color>
+    <color name="barra_no_avance">#C4ECDC</color>
+
+</resources>
